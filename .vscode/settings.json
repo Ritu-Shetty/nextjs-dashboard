@@ -1,9 +1,0 @@
-{
-    "workbench.editor.decorations.colors": false,
-    "workbench.tips.enabled": true,
-    "workbench.colorCustomizations": {
-
-    },
-    "diffEditor.experimental.showEmptyDecorations": false,
-    "diffEditor.renderSideBySide": false
-}
